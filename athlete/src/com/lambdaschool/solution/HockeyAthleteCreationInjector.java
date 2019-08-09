@@ -1,4 +1,4 @@
 package com.lambdaschool.solution;
 
-public class HockeyAthleteCreationInjector {
+public class HockeyAthleteCreationInjector implement AthleteCreation {
 }
